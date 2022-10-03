@@ -11,9 +11,9 @@ várias bandas famosas!
 
 ## Links
 
- <a href="[https://shop-bike.herokuapp.com](https://documenter.getpostman.com/view/19295583/UyxhonQY)">Documentação</a>
+ <a href="https://documenter.getpostman.com/view/19295583/UyxhonQY">Documentação</a>
  
- <a href="[https://shop-bike.herokuapp.com](https://lama-lab.herokuapp.com)">API</a>
+ <a href="https://lama-lab.herokuapp.com">API</a>
 
 ## Rotas do projeto
 * Cadastro
