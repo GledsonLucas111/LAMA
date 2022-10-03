@@ -17,10 +17,10 @@ api: https://lama-lab.herokuapp.com
 ## Rotas do projeto
 * Cadastro
 * Login
-* Endpoint de registrar banda
-* Endpoint de visualização de detalhes sobre a banda
-* Endpoint de adicionar um show a um dia
-* Endpoint de pegar todos os shows de uma data
+* Registrar banda
+* Detalhes sobre a banda
+* Adicionar um show
+* Pegar todos os shows de uma data
 ## Inicializar projeto
 
 
