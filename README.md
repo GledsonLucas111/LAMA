@@ -9,10 +9,9 @@ várias bandas famosas!
 - Typescript
 - Postman
 
-## Link da documentação
-- https://documenter.getpostman.com/view/19295583/UyxhonQY
-
-api: https://lama-lab.herokuapp.com
+## Links
+- Documentação: https://documenter.getpostman.com/view/19295583/UyxhonQY
+- API: https://lama-lab.herokuapp.com
 
 ## Rotas do projeto
 * Cadastro
