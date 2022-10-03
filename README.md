@@ -4,10 +4,8 @@ várias bandas famosas!
 
 ## Links
 
- <a href="https://documenter.getpostman.com/view/19295583/UyxhonQY">Documentação</a>
+ <a href="https://documenter.getpostman.com/view/19298430/UyxdM9g4">Documentação</a>
  
- <a href="https://lama-lab.herokuapp.com">API</a>
-
 ## Rotas do projeto
 * Cadastro
 * Login
@@ -24,6 +22,7 @@ várias bandas famosas!
 - Typescript
 - Postman
 
+## Inicializar projeto
 
 ```bash
 # Install packages
