@@ -2,13 +2,6 @@
 - Labenu Musical Awards, uma API cujo o proposito e gerenciar um festival com 
 várias bandas famosas!
 
-## Techs
-- Node.js
-- express
-- knex
-- Typescript
-- Postman
-
 ## Links
 
  <a href="https://documenter.getpostman.com/view/19295583/UyxhonQY">Documentação</a>
@@ -23,6 +16,13 @@ várias bandas famosas!
 * Adicionar um show
 * Pegar todos os shows de uma data
 ## Inicializar projeto
+
+## Techs
+- Node.js
+- express
+- knex
+- Typescript
+- Postman
 
 
 ```bash
